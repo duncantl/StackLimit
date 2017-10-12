@@ -1,6 +1,10 @@
 Package: StackLimit
 Version: 0.1-0
 Title: Query and Set Stack Limit
+Description:
+ Note that R computes the stack when it starts. Resetting the stack
+ won't change R's view of its size.
+ Instead, use the shell command ulimit -s size before starting the R process.
 Author: Duncan Temple Lang
 Note: There is probably an existing package with this in it.
 License: MIT
