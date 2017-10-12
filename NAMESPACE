@@ -1,0 +1,2 @@
+useDynLib(StackLimit)
+export(stackLimit)

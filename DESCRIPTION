@@ -1,0 +1,6 @@
+Package: StackLimit
+Version: 0.1-0
+Title: Query and Set Stack Limit
+Author: Duncan Temple Lang
+Note: There is probably an existing package with this in it.
+License: MIT
